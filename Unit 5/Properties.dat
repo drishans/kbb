@@ -1,0 +1,8 @@
+CarModel=370z
+CarMake=Nissan
+Option1=Transmission
+OptionValue1a=Manual
+OptionValue1b=Automatic
+Option2=Brakes
+OptionValue2a=Regular
+OptionValue2b=ABS
